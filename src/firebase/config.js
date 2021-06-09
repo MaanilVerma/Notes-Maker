@@ -7,7 +7,7 @@ import 'firebase/firestore'
 
 
 const firebaseConfig = {
-    piKey: "AIzaSyAdeHyQJrXHg4X_T16uN4VleV2yybr--Qo",
+    apiKey: "AIzaSyAdeHyQJrXHg4X_T16uN4VleV2yybr--Qo",
     authDomain: "notemaker-eeb95.firebaseapp.com",
     projectId: "notemaker-eeb95",
     storageBucket: "notemaker-eeb95.appspot.com",
