@@ -50,6 +50,11 @@ code {
 .MuiListItem-root.Mui-selected {
     background-color:#000000 !important;
 }
+
+.MuiTypography-root.MuiListItemText-secondary.MuiTypography-body2.MuiTypography-colorTextSecondary.MuiTypography-displayBlock{
+    color:#f3ca20;
+}
+
 .no-note-selected {
     font-size: 48px;
     position: absolute;
